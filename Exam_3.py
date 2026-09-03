@@ -15,4 +15,4 @@ elif age <= 59:
     price = 200
 else:
     print("Senior always free!")
-print (f"Price = {price:.2f}")
+print (f"Price = {price:.2f} Baht.")
