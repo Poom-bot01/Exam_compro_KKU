@@ -1,0 +1,4 @@
+mango,4,50
+banana,7,40
+grapes,3,60
+apple,10,20
